@@ -50,9 +50,6 @@ use Dompdf\Options;
 
     $html = str_replace("{{  bahan  }}", $item_list_str, $html);
 
-
-
-    
     $dompdf->loadHtml($html);
     $dompdf->render();
 
