@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "datatables.net-dt": "^2.1.8",
+    "flowbite": "^2.5.2",
+    "tw-elements": "^2.0.0"
+  }
+}
